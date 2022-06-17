@@ -29,7 +29,7 @@ const BoxPointer = imports.ui.boxpointer;
 
 
 
-const NORDVPN_TOOL_EXPECTED_VERSION= "3.12";
+const NORDVPN_TOOL_EXPECTED_VERSION= "4.00";
 
 
 /**
